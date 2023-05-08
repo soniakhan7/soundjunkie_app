@@ -6,7 +6,7 @@
       "ArtistSongTitle":"Harder, Better, Faster, Stronger",
       "ArtistAlbum":"Discovery",
       "ArtistLyrics":"https://genius.com/Daft-punk-harder-better-faster-stronger-lyrics",
-      "ArtistAlbumImage":"discovery.jpg",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/discovery.jpg",
       "ArtistGenre":"Electronic",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Daft_Punk",
       "ArtistSongFile":"Harder,Better,Faster,Stronger"
@@ -16,7 +16,7 @@
       "ArtistSongTitle":"Die For You",
       "ArtistAlbum":"Starboy",
       "ArtistLyrics":"https://genius.com/The-weeknd-die-for-you-lyrics",
-      "ArtistAlbumImage":"starboy.jpg",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/starboy.jpg",
       "ArtistGenre":"R&B",
       "ArtistWiki":"https://en.wikipedia.org/wiki/The_Weeknd",
       "ArtistSongFile":"dieforyou"
@@ -26,7 +26,7 @@
       "ArtistSongTitle":"The Way Life Goes (feat. Oh Wonder)",
       "ArtistAlbum":"Luv Is Rage 2",
       "ArtistLyrics":"https://genius.com/Lil-uzi-vert-the-way-life-goes-lyrics",
-      "ArtistAlbumImage":"luvisrage2.jpg",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/luvisrage2.jpg",
       "ArtistGenre":"Hip-Hop",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Lil_Uzi_Vert",
       "ArtistSongFile":"waylifegoes"
@@ -36,7 +36,7 @@
       "ArtistSongTitle":"Down",
       "ArtistAlbum":"311",
       "ArtistLyrics":"https://genius.com/311-down-lyrics",
-      "ArtistAlbumImage":"311.jpg",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/311.jpg",
       "ArtistGenre":"Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/311_(band)",
       "ArtistSongFile":"down"
@@ -46,7 +46,7 @@
       "ArtistSongTitle":"The Funeral",
       "ArtistAlbum":"Everything All The Time",
       "ArtistLyrics":"https://genius.com/Band-of-horses-the-funeral-lyrics",
-      "ArtistAlbumImage":"eatl.jpg",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/eatl.jpg",
       "ArtistGenre":"Indie Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Band_of_Horses",
       "ArtistSongFile":"thefuneral"
@@ -56,7 +56,7 @@
       "ArtistSongTitle":"Vienna",
       "ArtistAlbum":"The Stranger",
       "ArtistLyrics":"https://genius.com/Billy-joel-vienna-lyrics",
-      "ArtistAlbumImage":"thestranger",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/thestranger.jpg",
       "ArtistGenre":"Soft Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Billy_Joel",
       "ArtistSongFile":"vienna"
@@ -66,7 +66,7 @@
       "ArtistSongTitle":"Hadron Collider",
       "ArtistAlbum":"Freetown Sound",
       "ArtistLyrics":"https://genius.com/Blood-orange-hadron-collider-lyrics",
-      "ArtistAlbumImage":"freetownsnd",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/freetownsnd.jpg",
       "ArtistGenre":"Alternative/Indie",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Dev_Hynes",
       "ArtistSongFile":"hardoncollider"
@@ -76,7 +76,7 @@
       "ArtistSongTitle":"Str8 Outta Mumbai",
       "ArtistAlbum":"Leak 04-13 (Bait Ones)",
       "ArtistLyrics":"https://genius.com/Jai-paul-str8-outta-mumbai-lyrics",
-      "ArtistAlbumImage":"leak413",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/leak413.jpg",
       "ArtistGenre":"Pop",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Jai_Paul",
       "ArtistSongFile":"str8outtamumbai"
@@ -86,7 +86,7 @@
       "ArtistSongTitle":"Time to Pretend",
       "ArtistAlbum":"Oracular Spectacular",
       "ArtistLyrics":"https://genius.com/Mgmt-time-to-pretend-lyrics",
-      "ArtistAlbumImage":"oracularspec",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/oracularspec.jpg",
       "ArtistGenre":"Indie Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/MGMT",
       "ArtistSongFile":"timetopretend"
@@ -96,7 +96,7 @@
       "ArtistSongTitle":"Lost In The World",
       "ArtistAlbum":"My Beautiful Dark Twisted Fantasy",
       "ArtistLyrics":"https://genius.com/Kanye-west-lost-in-the-world-lyrics",
-      "ArtistAlbumImage":"mbdtf",
+      "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/mbdtf.jpg",
       "ArtistGenre":"Hip-Hop",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Kanye_West",
       "ArtistSongFile":"lostintheworld"

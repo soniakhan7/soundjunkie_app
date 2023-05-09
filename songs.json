@@ -9,7 +9,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/discovery.jpg",
       "ArtistGenre":"Electronic",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Daft_Punk",
-      "ArtistSongFile":"Harder,Better,Faster,Stronger"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/Harder%2CBetter%2CFaster%2CStronger.mp3"
     },
     {
       "ArtistName":"The Weeknd",
@@ -19,7 +19,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/starboy.jpg",
       "ArtistGenre":"R&B",
       "ArtistWiki":"https://en.wikipedia.org/wiki/The_Weeknd",
-      "ArtistSongFile":"dieforyou"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/main/dieforyou.mp3"
     },
     {
       "ArtistName":"Lil Uzi Vert",
@@ -29,7 +29,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/luvisrage2.jpg",
       "ArtistGenre":"Hip-Hop",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Lil_Uzi_Vert",
-      "ArtistSongFile":"waylifegoes"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/waylifegoes.mp3"
     },
     {
       "ArtistName":"311",
@@ -39,7 +39,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/311.jpg",
       "ArtistGenre":"Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/311_(band)",
-      "ArtistSongFile":"down"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/down.mp3"
     },
     {
       "ArtistName":"Band of Horses",
@@ -49,7 +49,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/eatl.jpg",
       "ArtistGenre":"Indie Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Band_of_Horses",
-      "ArtistSongFile":"thefuneral"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/thefuneral.mp3"
     },
     {
       "ArtistName":"Billy Joel",
@@ -59,7 +59,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/thestranger.jpg",
       "ArtistGenre":"Soft Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Billy_Joel",
-      "ArtistSongFile":"vienna"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/vienna.mp3"
     },
     {
       "ArtistName":"Blood Orange",
@@ -69,7 +69,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/freetownsnd.jpg",
       "ArtistGenre":"Alternative/Indie",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Dev_Hynes",
-      "ArtistSongFile":"hardoncollider"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/hadroncollider.mp3"
     },
     {
       "ArtistName":"Jai Paul",
@@ -79,7 +79,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/leak413.jpg",
       "ArtistGenre":"Pop",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Jai_Paul",
-      "ArtistSongFile":"str8outtamumbai"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/str8outtamumbai.mp3"
     },
     {
       "ArtistName":"MGMT",
@@ -89,7 +89,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/oracularspec.jpg",
       "ArtistGenre":"Indie Rock",
       "ArtistWiki":"https://en.wikipedia.org/wiki/MGMT",
-      "ArtistSongFile":"timetopretend"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/blob/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/timetopretend.mp3"
     },
     {
       "ArtistName":"Kanye West",
@@ -99,7 +99,7 @@
       "ArtistAlbumImage":"https://raw.githubusercontent.com/soniakhan7/soundjunkie_app/main/mbdtf.jpg",
       "ArtistGenre":"Hip-Hop",
       "ArtistWiki":"https://en.wikipedia.org/wiki/Kanye_West",
-      "ArtistSongFile":"lostintheworld"
+      "ArtistSongFile":"https://github.com/soniakhan7/soundjunkie_app/raw/90d2e42e9f0a7bd8e9b15a9e9fb9d18eb45177b3/lostintheworld.mp3"
     }
   ],
   "Status":"OK"
